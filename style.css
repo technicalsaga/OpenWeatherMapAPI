@@ -1,0 +1,36 @@
+.container{
+	background: #ccc;
+	text-align: center;
+}
+.weather{
+	font-size: 32px;
+	margin:0;
+}
+.temp{
+	font-size: 60px;
+	margin: 0;
+	font-weight: bold;
+}
+.temp-max{
+	margin: 0;
+}
+.temp-min{
+	margin: 0;
+}
+.weather-report{
+	margin-bottom: 20px;
+}
+.city{
+	text-align: center;
+	align-self: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.btn{
+	size: 20px;
+
+}
+#button{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
